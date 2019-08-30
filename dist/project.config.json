@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "photo",
+  "description": "王舒忱的成长记",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
